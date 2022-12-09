@@ -1,0 +1,15 @@
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.csproj.AssemblyReference.cache
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfoInputs.cache
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfo.cs
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.csproj.CoreCompileInputs.cache
+D:\Study\Design Patterns\Net\BankApp\bin\Debug\net6.0\BankApp.exe
+D:\Study\Design Patterns\Net\BankApp\bin\Debug\net6.0\BankApp.deps.json
+D:\Study\Design Patterns\Net\BankApp\bin\Debug\net6.0\BankApp.runtimeconfig.json
+D:\Study\Design Patterns\Net\BankApp\bin\Debug\net6.0\BankApp.dll
+D:\Study\Design Patterns\Net\BankApp\bin\Debug\net6.0\BankApp.pdb
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.dll
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\refint\BankApp.dll
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.pdb
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\BankApp.genruntimeconfig.cache
+D:\Study\Design Patterns\Net\BankApp\obj\Debug\net6.0\ref\BankApp.dll
