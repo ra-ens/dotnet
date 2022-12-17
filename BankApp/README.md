@@ -23,7 +23,9 @@ In order to run this project, you will need the following:
 - Calculate the accounts balance average
 
 ## Execution
-This is an example of the execution
+This is an example of the execution.
+
+![image](https://user-images.githubusercontent.com/96893314/208266305-fa2369ba-4779-45de-9503-e8ba6cb5959c.png)
 
 
 ## License
